@@ -9,6 +9,4 @@ usage:
 
 ppsspp: https://github.com/hrydgard/ppsspp
 
-vita3k: https://github.com/Vita3K/Vita3K-Android
-
 dolphin: https://br.dolphin-emu.org/download/?cr=us
